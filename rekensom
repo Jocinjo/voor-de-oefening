@@ -1,3 +1,4 @@
 rekenen(a,b):
 	uitkomst = a+b
+	uitkomst = uitkomst+10
 	return uitkomst
