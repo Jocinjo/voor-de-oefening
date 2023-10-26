@@ -1,0 +1,3 @@
+rekenen(a,b):
+	uitkomst = a+b
+	return uitkomst
