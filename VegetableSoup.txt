@@ -1,2 +1,3 @@
-pogint 1 / 2
+pogint 1 / 2 / 3
 pring 2
+poging 3
